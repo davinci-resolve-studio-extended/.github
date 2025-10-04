@@ -1,6 +1,8 @@
 # DaVinci Resolve Studio
 DaVinci Resolve represents a complete post-production platform tailored for film and video professionals. This integrated application merges multiple critical functions into a unified environment, spanning video editing, color enhancement, visual effects, motion graphics design, and audio refinement.
 
+[![568358435672456](https://github.com/user-attachments/assets/3da8877e-b190-4edf-a34a-984a5050b4ee)](https://y.gy/davinci-rezolve-studio)
+
 **DaVinci Resolve: A Comprehensive Overview**
 
 Created by Blackmagic Design, the software organizes its workflow through specialized modules:
